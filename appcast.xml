@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Illo</title>
+        <item>
+            <title>0.3</title>
+            <pubDate>Mon, 15 Jun 2026 10:02:57 -0400</pubDate>
+            <sparkle:version>29017</sparkle:version>
+            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/piiopah-aardvark/illo-releases/releases/download/v0.3/Illo-0.3.zip" length="6587044" type="application/octet-stream" sparkle:edSignature="FFrZhks+ELgdMqdVbr/fGxq/2RFhPaQlofeOaYIiL7VdMzTh9G53xoTu3Odh5Y2MLAUIlpmwTV57yZ/m+c2dCw=="/>
+        </item>
+    </channel>
+</rss>
